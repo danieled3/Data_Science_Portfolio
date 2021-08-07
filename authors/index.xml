@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/authors/</link>
+    <description>Recent content in Authors on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/authors/admin/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Daniele, a curious and determined dreamer!&lt;/p&gt;
+&lt;p&gt;Numbers have always been my passion. I have studied the application of machine learning algorithms to industrial machines and robots. This knowledge was then indispensable to me to solve the complex business problems of the companies for which I worked as a consultant. I currently have 5 years of experience designing and implementing end-to-end advanced analytics projects for multinational companies. The industries I dealt with most are energy, financial services and tech.&lt;/p&gt;
+&lt;p&gt;This is my data science portfolio. I have collected some of the projects I have worked on in my spare time and some presentations I have given to introduce technical topics.
+I hope they can be helpful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prof. Alessandro Astolfi (Imperial College)</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/authors/prof.-alessandro-astolfi-imperial-college/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/authors/prof.-alessandro-astolfi-imperial-college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prof. Maria Elena Valcher (University of Padua)</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/authors/prof.-maria-elena-valcher-university-of-padua/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/authors/prof.-maria-elena-valcher-university-of-padua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

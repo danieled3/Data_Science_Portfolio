@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/post/</link>
+    <description>Recent content in Posts on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow: convolutional Neural Networks</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/post/convolutional_nn/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/post/convolutional_nn/</guid>
+      <description>&lt;p&gt;This presentation provides a theoretical basis for convolutional neural networks. It also offers an operational approach to solving problems that require image analysis. I suggest to follow these steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Construction and training of a standard convolutional neural network using the code provided on the Jupiter notebook&lt;/li&gt;
+&lt;li&gt;Identification of problems (overfitting, underfitting, long training time) starting from the analysis of the loss function&lt;/li&gt;
+&lt;li&gt;Modification of the hyperparameters according to the indications provided in the last paragraph of the presentation&lt;/li&gt;
+&lt;li&gt;Model adaptation and performance improvement&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I built the whole presentation with Prezi. This tool is fascinating because it is based on studies on the graphic formats that the human brain prefers to store information better. Prezi allows in a short time to create presentations that are different from the average, clear and impressive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scikit-Learn</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/post/scikit-learn/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/post/scikit-learn/</guid>
+      <description>&lt;p&gt;This presentation introduces the scikit-learn library. It describes the three main types of objects formally and operationally: transformer, estimators, and predictors.
+Particular attention is paid to the GridSearchCv and Pipeline objects. They are widely used in data preparation and model training.&lt;/p&gt;
+&lt;p&gt;The attached Jupiter Notebook shows a standard application of all objects presented in a regression problem. By taking advantage of the formal definitions provided, I show how to build custom objects. They can be integrated into scikit-learn, in case of more specific needs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NLP with SpaCy</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/post/nlp-spacy/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/post/nlp-spacy/</guid>
+      <description>&lt;p&gt;This presentation describes the main types of objects the spaCy library provides and the typical pipeline used in text analysis.&lt;/p&gt;
+&lt;p&gt;I then provide the code that shows how to exploit the most useful rule-based and statistical models for analyzing a short text.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/post/blockchain/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/post/blockchain/</guid>
+      <description>&lt;p&gt;This presentation shows the classic structure of a blockchain. The main properties of this data structure are described and explained.&lt;/p&gt;
+&lt;p&gt;In the end, 2 simple blockchain implementations are provided:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A simple undistributed blockchain built in python&lt;/li&gt;
+&lt;li&gt;A possible use-case in which a machine learning model is integrated into a blockchain to automatically assign risk levels to cars&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
