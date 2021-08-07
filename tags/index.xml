@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/tags/</link>
+    <description>Recent content in Tags on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predictive Analytics</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/tags/predictive-analytics/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/tags/predictive-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/tags/tensorflow/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/tags/nlp/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/tags/computer-vision/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Exploration</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/tags/data-exploration/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/tags/data-exploration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

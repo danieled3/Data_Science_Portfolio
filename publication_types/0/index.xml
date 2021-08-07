@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/publication_types/0/</link>
+    <description>Recent content in 0 on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 10 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Dynamic Approximate Solution for Stationary Mean Field Games</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/publication/thesis/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/publication/thesis/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

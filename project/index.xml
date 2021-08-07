@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/project/</link>
+    <description>Recent content in Projects on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trady, your trading assistant</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/artificial-intelligence/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Amazon Reviews</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/deep-learning/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Cassava Leaf Disease</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/external-project/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-commerce demand forecasting</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/robotics/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The main trends in UK population</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/skin-cancer-ai/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/skin-cancer-ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

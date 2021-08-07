@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Data Science Portfolio</title>
+    <link>https://danieled3.github.io/Data_Science_Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Data Science Portfolio</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://danieled3.github.io/Data_Science_Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Analysis of Amazon Reviews</title>
+      <link>https://danieled3.github.io/Data_Science_Portfolio/project/deep-learning/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danieled3.github.io/Data_Science_Portfolio/project/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
