@@ -4,9 +4,9 @@
       "sizes": "32x32",
       "type": "image/png"
     },{
-        "src": "img/icon-192.png",
+        "src": "img/website_preview.jpg",
         "sizes": "192x192",
-        "type": "image/png"
+        "type": "image/jpg"
     }],
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest"
